@@ -1,6 +1,7 @@
 /*---------------------------------------
 TODOS: 
 ^  Highest priority
+|  -UN-SPAGHETTI THE CODE
 |  -Add support for 1000+ length inputs by breaking it into 999 character long chunks and decoding/encoding 1 chunk at a time
 |  -Make user passwords and input strings be able to be entered into the console instead of directly into the code
 |  -Optional feature that actually checks user passwords
